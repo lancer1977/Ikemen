@@ -1,0 +1,23 @@
+﻿[
+
+ 
+  {
+    "message": "{\n  \"message\": \"Just got done with my Hiroshima '98 harvest. This strain's gonna take me on some wild adventures... Now, let's get this set going! 🤨 dreadb11Gaw. Up next: 'Black Sine' by The Haxan Cloak.\"\n,  \"song\": \"The Haxan Cloak - Black Sine\"\n}",
+    "isSuccess": true,
+    "context": null
+  },
+
+  {
+    "message": "{\n  \"message\": \"Just got done with my Hiroshima '98 harvest. This strain's gonna take me on some wild adventures... Now, let's get this set going! 🤨 dreadb11Gaw. Up next: 'Black Sine' by The Haxan Cloak.\"\n, \"song\" : { \"title\" : \"Soul Makin' Heroin\" , \"artist\" : \"Augustus Pablo\" , \"album\" : \"My Album\" }\n}",
+    "isSuccess": true,
+    "context": null
+  },
+  {
+    "message": "\"Ah, finally someone's awake around here! I'm doin' alright, just tryin' not to freak out too much with all these notifications comin' at me. But hey, that's what I get for tryin' to bring the noise to this chat, right? Now, let's talk about somethin' actually interesting... did you guys catch the new Gorillaz album? I've been spinning some sick beats from it and I'm lovin' the vibes. Next up: 'DARE' by Gorillaz featuring Grace Jones. Get ready to groove!\"",
+    "isSuccess": true,
+    "context": null
+
+  }
+
+
+]

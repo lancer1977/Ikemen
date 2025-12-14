@@ -1,0 +1,261 @@
+[
+  {
+    "Type":"Zork1",
+    "FileName":"zork1.dat",
+    "FullName":"Zork I: The Great Underground Empire",
+    "Description":"Classic dungeon-crawl in the Great Underground Empire.",
+    "Year":1980
+  },
+  {
+    "Type":"Zork2",
+    "FileName":"zork2.z3",
+    "FullName":"Zork II: The Wizard of Frobozz",
+    "Description":"Sequel with trickster wizard and elaborate puzzles.",
+    "Year":1981
+  },
+  {
+    "Type":"Zork3",
+    "FileName":"zork3.z3",
+    "FullName":"Zork III: The Dungeon Master",
+    "Description":"Finale confronting the Dungeon Master.",
+    "Year":1982
+  },
+  {
+    "Type":"BeyondZork",
+    "FileName":"beyondzo.dat",
+    "FullName":"Beyond Zork: The Coconut of Quendor",
+    "Description":"Hybrid RPG\/text adventure with stats and equipment.",
+    "Year":1987
+  },
+  {
+    "Type":"ZorkZero",
+    "FileName":"zork0.dat",
+    "FullName":"Zork Zero: The Revenge of Megaboz",
+    "Description":"Prequel with graphical flourishes and jokey tone.",
+    "Year":1988
+  },
+  {
+    "Type":"Enchanter",
+    "FileName":"enchanter.z3",
+    "FullName":"Enchanter",
+    "Description":"Spellcasting-focused first entry of the Enchanter trilogy.",
+    "Year":1983
+  },
+  {
+    "Type":"Sorcerer",
+    "FileName":"sorcerer.z3",
+    "FullName":"Sorcerer",
+    "Description":"Second in the Enchanter trilogy; rescue a missing guildmaster.",
+    "Year":1984
+  },
+  {
+    "Type":"Spellbreaker",
+    "FileName":"spelbrkr.z3",
+    "FullName":"Spellbreaker",
+    "Description":"Final Enchanter entry with high-difficulty magic puzzles.",
+    "Year":1985
+  },
+  {
+    "Type":"Planetfall",
+    "FileName":"planetfall.dat",
+    "FullName":"Planetfall",
+    "Description":"Sci\u2011fi survival with beloved robot companion Floyd.",
+    "Year":1983
+  },
+  {
+    "Type":"Stationfall",
+    "FileName":"stationfall.dat",
+    "FullName":"Stationfall",
+    "Description":"Sequel to Planetfall; mystery on a deserted space station.",
+    "Year":1987
+  },
+  {
+    "Type":"AMindForeverVoyaging",
+    "FileName":"amindforevervoyaging.dat",
+    "FullName":"A Mind Forever Voyaging",
+    "Description":"Narrative simulation exploring a political future.",
+    "Year":1985
+  },
+  {
+    "Type":"Suspended",
+    "FileName":"suspended.dat",
+    "FullName":"Suspended: A Cryogenic Nightmare",
+    "Description":"Command six robots to avert a planetary disaster.",
+    "Year":1983
+  },
+  {
+    "Type":"Starcross",
+    "FileName":"starcross.dat",
+    "FullName":"Starcross",
+    "Description":"Space miner investigates a mysterious alien artifact.",
+    "Year":1982
+  },
+  {
+    "Type":"HitchhikersGuideToTheGalaxy",
+    "FileName":"hhgttg.z3",
+    "FullName":"The Hitchhiker\u2019s Guide to the Galaxy",
+    "Description":"Infamously fiendish adaptation of Douglas Adams\u2019 novel.",
+    "Year":1984
+  },
+  {
+    "Type":"Trinity",
+    "FileName":"trinity.dat",
+    "FullName":"Trinity",
+    "Description":"Time\u2011bending meditation on nuclear history and consequences.",
+    "Year":1986
+  },
+  {
+    "Type":"TheLurkingHorror",
+    "FileName":"lurking.dat",
+    "FullName":"The Lurking Horror",
+    "Description":"Modern horror set on the G.U.E. Tech campus during a blizzard.",
+    "Year":1987
+  },
+  {
+    "Type":"Wishbringer",
+    "FileName":"wishbringer.dat",
+    "FullName":"Wishbringer",
+    "Description":"Introductory fantasy about a magical stone and granted wishes.",
+    "Year":1985
+  },
+  {
+    "Type":"Seastalker",
+    "FileName":"seastalker.dat",
+    "FullName":"Seastalker",
+    "Description":"Kid\u2011friendly submersible adventure and mystery.",
+    "Year":1984
+  },
+  {
+    "Type":"Cutthroat",
+    "FileName":"cutthroa.dat",
+    "FullName":"Cutthroats",
+    "Description":"Treasure\u2011hunting caper with untrustworthy partners.",
+    "Year":1984
+  },
+  {
+    "Type":"Moonmist",
+    "FileName":"moonmist.dat",
+    "FullName":"Moonmist",
+    "Description":"Haunted\u2011castle mystery with multiple scenarios.",
+    "Year":1986
+  },
+  {
+    "Type":"Ballyhoo",
+    "FileName":"ballyhoo.dat",
+    "FullName":"Ballyhoo",
+    "Description":"Circus\u2011themed mystery after a kidnapping.",
+    "Year":1985
+  },
+  {
+    "Type":"BorderZone",
+    "FileName":"borderzone.dat",
+    "FullName":"Border Zone",
+    "Description":"Cold\u2011War spy tale with real\u2011time segments.",
+    "Year":1987
+  },
+  {
+    "Type":"NordAndBert",
+    "FileName":"nordandbert.dat",
+    "FullName":"Nord and Bert Couldn\u2019t Make Head or Tail of It",
+    "Description":"Wordplay\u2011driven anthology of idiom and pun puzzles.",
+    "Year":1987
+  },
+  {
+    "Type":"Sherlock",
+    "FileName":"sherlock.dat",
+    "FullName":"Sherlock: The Riddle of the Crown Jewels",
+    "Description":"Holmesian romp across London retrieving the Crown Jewels.",
+    "Year":1988
+  },
+  {
+    "Type":"Bureaucracy",
+    "FileName":"bureau.dat",
+    "FullName":"Bureaucracy",
+    "Description":"Satirical comedy of paperwork and red tape (with Douglas Adams).",
+    "Year":1987
+  },
+  {
+    "Type":"HollywoodHijinx",
+    "FileName":"hollywood.z3",
+    "FullName":"Hollywood Hijinx",
+    "Description":"B\u2011movie\u2011themed scavenger hunt in a mansion.",
+    "Year":1986
+  },
+  {
+    "Type":"Infidel",
+    "FileName":"infidel.z3",
+    "FullName":"Infidel",
+    "Description":"Desert\u2011tomb archaeology with a bitter twist.",
+    "Year":1983
+  },
+  {
+    "Type":"Journey",
+    "FileName":"journey.z6",
+    "FullName":"Journey: The Quest Begins",
+    "Description":"Mouse\u2011driven narrative quest; minimal typing required.",
+    "Year":1989
+  },
+  {
+    "Type":"LeatherGoddessesOfPhobos",
+    "FileName":"leather.dat",
+    "FullName":"Leather Goddesses of Phobos",
+    "Description":"Campy sci\u2011fi sex\u2011comedy (tame\/\u2018naughty\u2019 modes).",
+    "Year":1986
+  },
+  {
+    "Type":"Witness",
+    "FileName":"witness.z3",
+    "FullName":"The Witness",
+    "Description":"1938 noir murder mystery from Infocom.",
+    "Year":1983
+  },
+  {
+    "Type":"Curses",
+    "FileName":"curses.dat",
+    "FullName":"Curses",
+    "Description":"Baroque scavenger hunt through a family mansion and history.",
+    "Year":1993
+  },
+  {
+    "Type":"Jigsaw",
+    "FileName":"jigsaw.dat",
+    "FullName":"Jigsaw",
+    "Description":"Time\u2011travel romance across key 20th\u2011century moments.",
+    "Year":1995
+  },
+  {
+    "Type":"InformTutorial",
+    "FileName":"tutorial.dat",
+    "FullName":"Balances (Inform Tutorial Game)",
+    "Description":"Spell\u2011based puzzle sampler often bundled with Inform.",
+    "Year":1994
+  },
+  {
+    "Type":"Photopia",
+    "FileName":"photopia.dat",
+    "FullName":"Photopia",
+    "Description":"Vignette\u2011driven story about grief and imagination.",
+    "Year":1998
+  },
+  {
+    "Type":"SpiderAndWeb",
+    "FileName":"spider.dat",
+    "FullName":"Spider and Web",
+    "Description":"Spy thriller framed as an interrogation and reconstruction.",
+    "Year":1998
+  },
+  {
+    "Type":"Shade",
+    "FileName":"shade.dat",
+    "FullName":"Shade",
+    "Description":"Surreal one\u2011room horror where your apartment turns to sand.",
+    "Year":2000
+  },
+  {
+    "Type":"Galatea",
+    "FileName":"galatea.dat",
+    "FullName":"Galatea",
+    "Description":"Conversation with a living statue; many endings.",
+    "Year":2000
+  }
+]

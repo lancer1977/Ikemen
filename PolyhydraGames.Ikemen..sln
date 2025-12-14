@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyhydraGames.Ikemen.Companion", "src\Ikemem.Companion\PolyhydraGames.Ikemen.Companion.csproj", "{5C628971-4E4F-99A7-413D-84DDDB0D03BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyhydraGames.Ikemen", "src\Ikemen.Core\PolyhydraGames.Ikemen.csproj", "{B84F27CB-1349-57C5-EEE8-DE7AD13044A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyhydraGames.Ikemen.Test", "Test\PolyhydraGames.Ikemen.Test.csproj", "{12B1456D-4794-C192-9116-CB4FADFE14DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotabot.Companion", "..\ChannelCheevos\src\Spotabot.Companion\Spotabot.Companion.csproj", "{C1520DFF-50F0-80AA-2C8F-7B5EC5F68F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C628971-4E4F-99A7-413D-84DDDB0D03BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C628971-4E4F-99A7-413D-84DDDB0D03BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C628971-4E4F-99A7-413D-84DDDB0D03BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C628971-4E4F-99A7-413D-84DDDB0D03BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84F27CB-1349-57C5-EEE8-DE7AD13044A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84F27CB-1349-57C5-EEE8-DE7AD13044A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84F27CB-1349-57C5-EEE8-DE7AD13044A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84F27CB-1349-57C5-EEE8-DE7AD13044A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B1456D-4794-C192-9116-CB4FADFE14DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B1456D-4794-C192-9116-CB4FADFE14DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B1456D-4794-C192-9116-CB4FADFE14DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B1456D-4794-C192-9116-CB4FADFE14DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1520DFF-50F0-80AA-2C8F-7B5EC5F68F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1520DFF-50F0-80AA-2C8F-7B5EC5F68F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1520DFF-50F0-80AA-2C8F-7B5EC5F68F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1520DFF-50F0-80AA-2C8F-7B5EC5F68F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1520DFF-50F0-80AA-2C8F-7B5EC5F68F18} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A1373A-1779-474B-A679-A8133178A864}
+	EndGlobalSection
+EndGlobal
