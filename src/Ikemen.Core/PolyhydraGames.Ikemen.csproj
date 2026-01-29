@@ -13,7 +13,7 @@
     <PackageReference Include="PolyhydraGames.Core.Interfaces.Gaming" Version="1.0.0.13" />
 
     <PackageReference Include="PolyhydraGames.Core.Interfaces" Version="2.0.0.45" />
-    <PackageReference Include="PolyhydraGames.Extensions" Version="2.1.1.59" />
+    <PackageReference Include="PolyhydraGames.Extensions" Version="2.1.1.60" />
   </ItemGroup>
 
   <ItemGroup>
