@@ -37,7 +37,7 @@
 	<ItemGroup>
 		<PackageReference Include="CsvHelper" Version="33.1.0" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="10.0.2" />
-		<PackageReference Include="PolyhydraGames.Extensions" Version="2.1.1.59" />
+		<PackageReference Include="PolyhydraGames.Extensions" Version="2.1.1.60" />
 		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
 		<PackageReference Include="Moq" Version="4.20.72" />
 		<PackageReference Include="NUnit" Version="4.4.0" />
@@ -51,7 +51,7 @@
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
 		<PackageReference Include="PolyhydraGames.Core.Test" Version="1.0.1.1" />
-		<PackageReference Include="PolyhydraGames.Spotify" Version="1.0.3.109" />
+		<PackageReference Include="PolyhydraGames.Spotify" Version="1.0.3.127" />
 
 	</ItemGroup>
 
